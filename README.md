@@ -4,7 +4,7 @@ version number updated
 
 int main() {
    // printf() displays the string inside quotation
-   printf("Hello, World!");
+   printf("Hello, World! HACKTOBERFEST 2021");
    return 0;
 }
 
